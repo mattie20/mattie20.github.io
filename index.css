@@ -1,0 +1,21 @@
+
+
+#bunny {
+    color: black;
+    background-color: #F2F2F2;
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    font-size:10;
+    line-height:.5;
+    float: left;
+}
+
+#bunny_container {
+    display:flex;
+    padding: 4em;
+    justify-content: center;
+    background-color: #F2F2F2;
+    float:left;
+    
+}
