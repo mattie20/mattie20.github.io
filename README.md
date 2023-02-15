@@ -1,2 +1,2 @@
 # sadbunnysoft
-website
+Art Project Website
