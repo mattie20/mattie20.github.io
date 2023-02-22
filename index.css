@@ -1,3 +1,9 @@
+header { 
+    border-bottom: 0.2em solid grey;
+    display: inline-block;
+    width:100%;
+
+}
 
 
 #bunny {
@@ -13,9 +19,8 @@
 
 #bunny_container {
     display:flex;
-    padding: 4em;
+    padding: 2em;
     justify-content: center;
     background-color: #F2F2F2;
     float:left;
-    
 }

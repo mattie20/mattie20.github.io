@@ -29,3 +29,7 @@ function happy(){
     document.getElementById("page").removeEventListener("mouseover", sad, true);
     document.getElementById("bunny").innerHTML = "<h1>(\\/)</h1><h1>( ^^)</h1><h1>c(\")(\")</h1></div>"
 }
+
+function animate(){
+    document.getElementById("run_bun_"i).hidden = false
+}
