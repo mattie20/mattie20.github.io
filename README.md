@@ -1,2 +1,2 @@
 # sadbunnysoft
-Art Project Website
+Art Project Website to showcase an ascii animation
